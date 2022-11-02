@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../Cpp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Resume"
+		},
+		{
+			"path": "../BanderaGoose"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Lab7"
+	}
+}
