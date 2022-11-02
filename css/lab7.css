@@ -1,0 +1,64 @@
+body, html {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-color: #100D14;
+}
+
+p, li{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.background{
+    width: auto;
+    height: auto;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    padding-left: 32px;
+    margin-top: 32px;
+    margin-right: 16px;
+    margin-bottom: 32px;
+    margin-left: 16px;
+    background: linear-gradient(180deg, #100D14 0%, #373239 100%); 
+}   
+.wrapper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about_author{
+    color: aliceblue;
+}
+.author{
+    color: orangered;
+}
+.author_list_name{
+    color: orange;
+}
+.text{
+    color: azure;
+    font-size: 12px;
+}
+
+.graph_image{
+    width: 500px;
+}
+.favourite_links_list_name{
+    color: orangered;
+}
+
+.list_of_links{
+    color: orange;
+    width: 100px ;
+}
+
+.text_list{
+    width: auto;
+    color: aqua;
+    font-size: 12px;
+}
